@@ -10,15 +10,15 @@ I build web applications and REST APIs with React, Node.js, Express and MongoDB.
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-222?logo=javascript)
-![C++](https://img.shields.io/badge/C++-222?logo=cplusplus&logoColor=00599C)
-![React](https://img.shields.io/badge/React-222?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-222?logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-222?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-222?logo=mongodb)
-![Tailwind](https://img.shields.io/badge/Tailwind-222?logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-222?logo=git)
-![Postman](https://img.shields.io/badge/Postman-222?logo=postman)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ## 🚀 Projects
 
