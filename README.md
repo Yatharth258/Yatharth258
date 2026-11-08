@@ -40,7 +40,7 @@ My approach: understand the concept, implement it in C++, analyze time and space
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-222?logo=gmail)](mailto:yatharthkeshari2468@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?logo=linkedin)](https://www.linkedin.com/in/yatharth-keshari-68b6b2315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatharthkeshari)
 
 ---
 
